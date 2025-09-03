@@ -1,3 +1,3 @@
-# python 2 basic
+# python 3 basic
 
-projek pembelajaran python 2 dasar di HSI Boarding school Tahun 2025
+projek pembelajaran python 3 dasar di HSI Boarding school Tahun 2025
